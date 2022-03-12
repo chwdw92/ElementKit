@@ -9,7 +9,7 @@ import UIKit
 import CoreGraphics
 import Foundation
 
-open class baseUILabel: UILabel {
+open class BaseUILabel: UILabel {
     
     
     // 해당 elem을 사용하기 위해서 translatesAutoresizingMaskIntoConstraints를 꺼야 하는데,

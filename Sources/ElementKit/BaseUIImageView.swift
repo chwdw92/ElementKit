@@ -8,7 +8,7 @@
 import UIKit
 
 
-open class baseUIImageView: UIImageView {
+open class BaseUIImageView: UIImageView {
     
     
     // 해당 elem을 사용하기 위해서 translatesAutoresizingMaskIntoConstraints를 꺼야 하는데,
